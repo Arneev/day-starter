@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41243078.chunk.css",
+    "main.js": "/static/js/main.ceecd374.chunk.js",
+    "main.js.map": "/static/js/main.ceecd374.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cb4337d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cb4337d2.js.map",
+    "static/css/2.31ff0196.chunk.css": "/static/css/2.31ff0196.chunk.css",
+    "static/js/2.2612232c.chunk.js": "/static/js/2.2612232c.chunk.js",
+    "static/js/2.2612232c.chunk.js.map": "/static/js/2.2612232c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.41243078.chunk.css.map": "/static/css/main.41243078.chunk.css.map",
+    "static/js/2.2612232c.chunk.js.LICENSE.txt": "/static/js/2.2612232c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Pacifico-Regular.93cd59ff.ttf",
+    "static/media/backgroundDarkGreen.587f0dea.jpg": "/static/media/backgroundDarkGreen.587f0dea.jpg",
+    "static/media/backgroundSky.a0fca23a.jpg": "/static/media/backgroundSky.a0fca23a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb4337d2.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.2612232c.chunk.js",
+    "static/css/main.41243078.chunk.css",
+    "static/js/main.ceecd374.chunk.js"
+  ]
+}

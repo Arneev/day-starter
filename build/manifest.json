@@ -1,0 +1,26 @@
+{
+  "short_name": "Day Boost",
+  "name": "Day Boost: Remove the redundancy",
+  "description": "Start up common websites and view your tasks",
+  "icons": [
+    {
+      "src": "assets/images/logo/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "assets/images/logo/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/images/logo/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
