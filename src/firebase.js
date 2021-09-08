@@ -3,13 +3,13 @@ import "firebase/auth";
 import "firebase/firestore";
 
 const app = firebase.initializeApp({
-    apiKey: "AIzaSyAl5ugBNJplYPSX1Lfd3LuZa7O-q9NWO9g",
-    authDomain: "day-boost.firebaseapp.com",
-    projectId: "day-boost",
-    storageBucket: "day-boost.appspot.com",
-    messagingSenderId: "234547727200",
-    appId: "1:234547727200:web:4bcfa17e2a986cfeecec05",
-    measurementId: "G-P9RWVEW9LE",
+    apiKey: "API_KEY",
+    authDomain: "AUTH_DOMAIN",
+    projectId: "PROJECT_ID",
+    storageBucket: "STORAGE_BUCKET",
+    messagingSenderId: "MESSAGING_SENDER_ID",
+    appId: "APP_ID",
+    measurementId: "MEASUREMENT_ID",
 });
 
 export const auth = app.auth();
